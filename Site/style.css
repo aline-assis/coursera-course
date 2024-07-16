@@ -3,3 +3,8 @@ p {
     background-color: gray;
     color: red;
 }
+
+.style {
+    font-family: Arial, Helvetica, sans-serif;
+    color:pink;
+}
