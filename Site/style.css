@@ -11,3 +11,7 @@ p {
     font-weight: bold;
     font-size: 24px;
 }
+
+body {
+    font-size: 120%;
+}
