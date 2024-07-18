@@ -23,6 +23,7 @@ body {
     margin: 40px;
     width: 300px;
     box-sizing: border-box;
+    margin-top: 20px;
 }
 
 #content {
@@ -31,4 +32,9 @@ body {
 
 h1 {
     margin-bottom: 30px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
