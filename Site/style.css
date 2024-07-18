@@ -40,3 +40,10 @@ h1 {
     margin: 0;
     padding: 0;
 }
+
+#bg {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    background: url("../image/Captura de tela 2022-12-19 144630.png") no-repeat right center blue;
+}
