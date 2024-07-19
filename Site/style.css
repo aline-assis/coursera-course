@@ -27,6 +27,8 @@ h1 {
 
 div#container {
     background-color: #00FFFF;
+    position: relative;
+    top: 60px;
 }
 
 p {
@@ -58,6 +60,9 @@ p {
 
 #p3 {
     background-color: #5f9ea0;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 #p4 {
