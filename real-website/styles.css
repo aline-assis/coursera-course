@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+    color: white;
+    background-color: #333333;
+    font-family: "Playfair Display", serif;
+  }
+
+  /* Navbar Styles */
+#header-nav {
+    background-color: #444444; /* Cor de fundo para a navbar */
+  }
+  
+  .navbar-brand {
+    font-family: "Playfair Display", serif;
+    font-size: 1.5rem; /* Ajuste o tamanho da fonte conforme necessário */
+    color: #FFFFFF; /* Cor do texto do logo */
+  }
+  
+  .navbar-nav .nav-link {
+    font-family: "Playfair Display", serif;
+    color: #CCCCCC; /* Cor dos links de navegação */
+    font-weight: 400; /* Ajuste o peso da fonte se necessário */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #FFFFFF; /* Cor dos links ao passar o mouse */
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,...'); /* Customize o ícone do toggle se desejar */
+  }
+
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;charset=utf8,...'); /* Customize o ícone do toggle se desejar */
+  }
+  .navbar-logo {
+    height: 40px; /* Ajuste a altura do logotipo conforme necessário */
+    width: auto; /* Mantém a proporção da imagem */
+  }
+  
