@@ -26,15 +26,14 @@ body {
     color: #FFFFFF; /* Cor dos links ao passar o mouse */
   }
   
-  .navbar-toggler-icon {
+   /* navbar-toggler-icon { 
     background-image: url('data:image/svg+xml;charset=utf8,...'); /* Customize o ícone do toggle se desejar */
-  }
+  /* }
 
   .navbar-toggler-icon {
     background-image: url('data:image/svg+xml;charset=utf8,...'); /* Customize o ícone do toggle se desejar */
-  }
+    /*}*/
   .navbar-logo {
     height: 40px; /* Ajuste a altura do logotipo conforme necessário */
     width: auto; /* Mantém a proporção da imagem */
   }
-  
